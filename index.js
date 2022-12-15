@@ -11,7 +11,8 @@ app.use(fileUpload());
 const port = 5001;
 
 // const home = path.join(__dirname, '/files');
-const home = 'C:/files'; // aqui fica o seu diretorio. tem que estar previamente criado.
+// aqui fica o seu diretorio. tem que estar previamente criado.
+const home = 'C:/files';
 var currentPosition;
 
 app.get('/home', (req, res) => {
