@@ -1,9 +1,9 @@
 # Cloud-api
  API para gerenciar arquivos em um servidor. (Local ou web)
 
-## Sobre os módulos
+## Sobre os pacotes
 
-Para esse projeto eu utilizei os seguintes módulos:
+Para esse projeto eu utilizei os seguintes pacotes:
 
 ```
 express
@@ -15,13 +15,13 @@ express-fileupload
 
 ## Sobre diretório root
 
-A variável **home** é responsável pela raiz e o diretóriotem que estar previamente criado.
+A variável **home** é responsável pela raiz e o diretório tem que estar previamente criado.
 ## Utilização
 
 No terminal digite esses comandos:
 
 
-**Para instalar os módulos**
+**Para instalar os pacotes**
 ```bash
   npm install
 ```
